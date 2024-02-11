@@ -6,6 +6,8 @@
 - ⚡ Fun fact: "⚡ Fun fact: I once travelled to five different countries in one month as part of a cultural exchange program!
 
   ![H-Janath's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Janath&show_icons=true&theme=transparent)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Janath&hide_progress=true)
 <!---
 H-Janath/H-Janath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
