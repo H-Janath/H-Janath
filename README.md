@@ -1,3 +1,4 @@
+### Hi there
 - 👋 Hi, I'm @H-Janath!
 - 👀 I'm interested in delving into web development technologies, encompassing both front-end and back-end development methodologies.
 - 🌱 I’m currently learning front-end technologies like Angular and React, and back-end technologies such as Spring for Java and Node.js
