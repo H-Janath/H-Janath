@@ -5,7 +5,7 @@
 - 📫 How to reach me: "📫 You can reach me via email at janathhma@email.com or connect with me on LinkedIn at [linkedin.com/in/H-Janath.](https://www.linkedin.com/in/janath-h-m-a-b5a527230/)
 - ⚡ Fun fact: "⚡ Fun fact: I once travelled to five different countries in one month as part of a cultural exchange program!
 
-- ![H-Janath's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Janath&show_icons=true&theme=transparent)
+  ![H-Janath's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Janath&show_icons=true&theme=transparent)
 <!---
 H-Janath/H-Janath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
